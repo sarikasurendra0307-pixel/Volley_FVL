@@ -1,0 +1,5 @@
+{
+  "name": "VolleyAuction Pro",
+  "description": "A comprehensive management system for a 96-player volleyball league auction, featuring role-based access, skill rating collection, and a real-time auction dashboard.",
+  "requestFramePermissions": []
+}
