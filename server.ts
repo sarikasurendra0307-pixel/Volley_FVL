@@ -1,6 +1,6 @@
 import express from 'express';
 import { createServer as createViteServer } from 'vite';
-import { supabase, seedDatabase } from './src/db';
+import { supabase, seedDatabase } from './src/db.js';
 import { UserRole } from './src/types';
 import { v4 as uuidv4 } from 'uuid';
 
